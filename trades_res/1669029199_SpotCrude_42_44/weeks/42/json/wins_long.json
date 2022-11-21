@@ -1,0 +1,28 @@
+[
+  {
+    "pos_id": 8,
+    "virtual_id": 1,
+    "fid": 0,
+    "won": 1,
+    "pair": "SpotCrude",
+    "dir": "Long",
+    "signal_key": "sky_1",
+    "ssngt": -1.0,
+    "base": 10.0,
+    "quote": 832.0799999999999,
+    "time_o": "2021-10-22 14:53:50",
+    "updates": 0,
+    "open_price": 83.208,
+    "exit_high_price": 83.985,
+    "exit_low_price": 82.819,
+    "close_price": 83.994,
+    "pl_ratio_s": 1.99,
+    "time_c": "2021-10-22 16:49:45",
+    "profit": 7.86,
+    "duration": "1:55:55",
+    "touch_high_pip": 78.6,
+    "touch_low_pop": -9.99999,
+    "sprd": 0.0,
+    "locked": 0.0
+  }
+]

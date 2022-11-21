@@ -1,0 +1,28 @@
+[
+  {
+    "pos_id": 40,
+    "virtual_id": 1,
+    "fid": 0,
+    "won": -1,
+    "pair": "USDCHF",
+    "dir": "Long",
+    "signal_key": "sky_1",
+    "ssngt": 0.534,
+    "base": 10.0,
+    "quote": 9.1426,
+    "time_o": "2021-11-02 16:04:24",
+    "updates": 0,
+    "open_price": 0.91426,
+    "exit_high_price": 0.91574,
+    "exit_low_price": 0.91351,
+    "close_price": 0.91307,
+    "pl_ratio_s": 1.97,
+    "time_c": "2021-11-02 21:04:15",
+    "profit": -0.01,
+    "duration": "4:59:51",
+    "touch_high_pip": 7.8,
+    "touch_low_pop": -11.89999,
+    "sprd": 0.0,
+    "locked": 0.0
+  }
+]

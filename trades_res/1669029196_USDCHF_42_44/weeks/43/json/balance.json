@@ -1,0 +1,401 @@
+[
+  {
+    "time_sec": 1635109260,
+    "time_str": "2021-10-24 21:01:00",
+    "balance": 100000.01999999999,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635147447,
+    "time_str": "2021-10-25 07:37:27",
+    "balance": 100000.01999999999,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635147447,
+    "time_str": "2021-10-25 07:37:27",
+    "balance": 100000.01999999999,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635153913,
+    "time_str": "2021-10-25 09:25:13",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635158365,
+    "time_str": "2021-10-25 10:39:25",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635158365,
+    "time_str": "2021-10-25 10:39:25",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635168573,
+    "time_str": "2021-10-25 13:29:33",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635177204,
+    "time_str": "2021-10-25 15:53:24",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635177204,
+    "time_str": "2021-10-25 15:53:24",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635196506,
+    "time_str": "2021-10-25 21:15:06",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635196780,
+    "time_str": "2021-10-25 21:19:40",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635196780,
+    "time_str": "2021-10-25 21:19:40",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635197748,
+    "time_str": "2021-10-25 21:35:48",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635218722,
+    "time_str": "2021-10-26 03:25:22",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635218722,
+    "time_str": "2021-10-26 03:25:22",
+    "balance": 100000.04,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635244904,
+    "time_str": "2021-10-26 10:41:44",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635257969,
+    "time_str": "2021-10-26 14:19:29",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635257969,
+    "time_str": "2021-10-26 14:19:29",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635310266,
+    "time_str": "2021-10-27 04:51:06",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635333341,
+    "time_str": "2021-10-27 11:15:41",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635333341,
+    "time_str": "2021-10-27 11:15:41",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635337523,
+    "time_str": "2021-10-27 12:25:23",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635350762,
+    "time_str": "2021-10-27 16:06:02",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635350762,
+    "time_str": "2021-10-27 16:06:02",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635354142,
+    "time_str": "2021-10-27 17:02:22",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635385843,
+    "time_str": "2021-10-28 01:50:43",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635385843,
+    "time_str": "2021-10-28 01:50:43",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635388930,
+    "time_str": "2021-10-28 02:42:10",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635402627,
+    "time_str": "2021-10-28 06:30:27",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635402627,
+    "time_str": "2021-10-28 06:30:27",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635402808,
+    "time_str": "2021-10-28 06:33:28",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635405644,
+    "time_str": "2021-10-28 07:20:44",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635405644,
+    "time_str": "2021-10-28 07:20:44",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635406457,
+    "time_str": "2021-10-28 07:34:17",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635413052,
+    "time_str": "2021-10-28 09:24:12",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635413052,
+    "time_str": "2021-10-28 09:24:12",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635416627,
+    "time_str": "2021-10-28 10:23:47",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635424376,
+    "time_str": "2021-10-28 12:32:56",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635424376,
+    "time_str": "2021-10-28 12:32:56",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635424860,
+    "time_str": "2021-10-28 12:41:00",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635487221,
+    "time_str": "2021-10-29 06:00:21",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635487221,
+    "time_str": "2021-10-29 06:00:21",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635487729,
+    "time_str": "2021-10-29 06:08:49",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635489514,
+    "time_str": "2021-10-29 06:38:34",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635489514,
+    "time_str": "2021-10-29 06:38:34",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635490856,
+    "time_str": "2021-10-29 07:00:56",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635490860,
+    "time_str": "2021-10-29 07:01:00",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635490860,
+    "time_str": "2021-10-29 07:01:00",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635490945,
+    "time_str": "2021-10-29 07:02:25",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635514098,
+    "time_str": "2021-10-29 13:28:18",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635514098,
+    "time_str": "2021-10-29 13:28:18",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635519155,
+    "time_str": "2021-10-29 14:52:35",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635523381,
+    "time_str": "2021-10-29 16:03:01",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635523381,
+    "time_str": "2021-10-29 16:03:01",
+    "balance": 100000.03,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635533069,
+    "time_str": "2021-10-29 18:44:29",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635533084,
+    "time_str": "2021-10-29 18:44:44",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  },
+  {
+    "time_sec": 1635533084,
+    "time_str": "2021-10-29 18:44:44",
+    "balance": 100000.02,
+    "locked": 0.0,
+    "profit": 0.0
+  }
+]
